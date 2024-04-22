@@ -1,0 +1,6 @@
+package plov.subtle.toyiba
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
